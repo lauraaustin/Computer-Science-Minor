@@ -1,4 +1,3 @@
 # Computer-Science-Minor
-Bulk file upload
-\n
+Bulk file upload\
 Not all CS minor files included, further uploads in future
