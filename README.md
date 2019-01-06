@@ -1,3 +1,4 @@
 # Computer-Science-Minor
 Bulk file upload
-Organization by class pending
+\n
+Not all CS minor files included, further uploads in future
